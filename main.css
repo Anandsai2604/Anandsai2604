@@ -1,0 +1,108 @@
+/* .input{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 480px;
+    height:80px;
+    background: #eaeaea;
+    border-radius: 6px;
+}
+.input input{
+    height: 50px;
+    width: 400px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 19px;
+} */
+/* .submit {
+    flex: 1;
+    text-align: center;
+    color: #fff;
+    background: #4c00b4;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 10px; 
+}   */
+/*.submit-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 60px auto;
+    width: 440px;
+    gap: 40px; 
+} 
+/*.select{
+    align-items: center;
+    text-align: center;
+    
+} */
+
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  } */
+  
+  form {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  } 
+  
+  .select, .input {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  select,
+input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center; /* This will center the text within the input/select */
+  margin-bottom: 10px; /* Optional: Add some space between elements */
+}
+   button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  } 
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .submit-container {
+    text-align: center;
+  }
+  .select {
+    width: 400px;
+    margin: 0 auto; /* This will center the element horizontally */
+  }
+  .background
+  {
+    background: url("G:\hemat.gif");
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
