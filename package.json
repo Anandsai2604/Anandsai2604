@@ -1,0 +1,30 @@
+{
+  "name": "anandsai2604",
+  "version": "1.0.0",
+  "description": "hematology",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anandsai2604/Anandsai2604.git"
+  },
+  "keywords": [
+    "hematology",
+    "gender",
+    "mch",
+    "mcv",
+    "mchc",
+    "medical"
+  ],
+  "author": "Anand Sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anandsai2604/Anandsai2604/issues"
+  },
+  "homepage": "https://github.com/Anandsai2604/Anandsai2604#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
